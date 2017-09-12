@@ -1,5 +1,6 @@
 MANIFEST.in
 setup.cfg
+setup.py
 flaskr/__init__.py
 flaskr/flaskr.py
 flaskr/schema.sql
